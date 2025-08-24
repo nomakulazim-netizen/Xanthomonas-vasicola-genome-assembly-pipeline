@@ -1,0 +1,23 @@
+name: genome_assembly
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - unicycler
+  - ragtag
+  - bwa
+  - samtools
+  - seqkit
+  - circlator
+  - blast
+  - sra-tools
+  - busco
+  - quast
+  - pandas
+  - biopython
+  - matplotlib
+  - seaborn
+
+
