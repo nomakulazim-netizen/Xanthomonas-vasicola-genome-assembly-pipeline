@@ -55,7 +55,7 @@ Example Ragout recipe files are provided in the `/recipes/` folder:
 
 These can be modified to use different reference genomes depending on the pathovar being assembled.
 
-For **plasmid scaffolding (Step 7 in the notebook)**, update `reference.fasta` to the most appropriate reference plasmid for your dataset.
+For the **plasmid scaffolding (Step 7 in the notebook)**, update `reference.fasta` to the most appropriate reference plasmid for your dataset.
 
 ### 6. Run the notebook
 Start Jupyter Lab or Notebook in the repository folder:
