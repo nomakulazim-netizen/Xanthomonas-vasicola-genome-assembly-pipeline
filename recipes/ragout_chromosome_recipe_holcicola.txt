@@ -1,0 +1,13 @@
+# Reference and target genome names (required)
+.references = ref
+.target = chromosome
+
+# Paths to genome fasta files (required for Sibelia)
+ref.fasta = NCPPB1060.fasta
+chromosome.fasta = assembly.fasta
+
+# Synteny block size preset (chromosomes use "normal")
+.blocks = 5000, 500, 100
+
+# Reference to use for scaffold naming (optional)
+.naming_ref = ref
