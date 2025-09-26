@@ -11,3 +11,4 @@ chromosome.fasta = assembly.fasta
 
 # Reference to use for scaffold naming (optional)
 .naming_ref = ref
+
