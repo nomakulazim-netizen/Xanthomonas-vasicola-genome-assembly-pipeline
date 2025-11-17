@@ -1,5 +1,7 @@
 # Xanthomonas-genome-assembly-pipeline
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17634337.svg)](https://doi.org/10.5281/zenodo.17634337)
+
 This repository contains the methods, scripts, and environments used for genome assembly and plasmid identification.
 
 ## Contents
@@ -73,4 +75,4 @@ Zim, N.Y., Yssel, A.E.J., & Coutinho, T.A. (2025).
 Genome resources of *Xanthomonas vasicola* strains from various hosts: reference-guided chromosome and plasmid assemblies for enhanced pathogen genomics.
 (In press).
 
-Additionally, please cite the specific Zenodo release associated with this repository (DOI generated upon release).
+Additionally, please cite the specific Zenodo release associated with this repository **https://doi.org/10.5281/zenodo.17634337**.
