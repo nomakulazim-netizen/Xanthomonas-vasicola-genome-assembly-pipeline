@@ -68,5 +68,9 @@ jupyter notebook
 ```
 Then open genome_assembly_methods.ipynb and follow the workflow.
 
-### Notes
-For citations of software tools and databases used in this workflow, please refer to the accompanying manuscript.
+### How to cite
+Zim, N.Y., Yssel, A.E.J., & Coutinho, T.A. (2025).
+Genome resources of *Xanthomonas vasicola* strains from various hosts: reference-guided chromosome and plasmid assemblies for enhanced pathogen genomics.
+(In press).
+
+Additionally, please cite the specific Zenodo release associated with this repository (DOI generated upon release).
